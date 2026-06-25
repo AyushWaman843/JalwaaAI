@@ -89,4 +89,4 @@ The application will boot up at `http://localhost:3000`.
 
 ---
 
-*Created with passion for the **SuperXgen AI Startup Buildathon 2026**.*
+*Created with passion by @DeveloperKSD, @ria-on-git for the **SuperXgen AI Startup Buildathon 2026**.*
