@@ -88,13 +88,4 @@ The application will boot up at `http://localhost:3000`.
 
 ---
 
-## 🏆 Hackathon Judging Criteria Alignment
-
-*   **Product Thinking:** Directly solves a massive, real-world friction point (long salon waitlists and unpersonalized style choices) in dense urban markets like Mumbai.
-*   **UI/UX Design:** Implemented a unique, gorgeous, and brand-distinctive design system rather than relying on standard cookie-cutter layouts. Perfect visual readability and high color contrast.
-*   **AI Usage & Innovation:** Uses advanced LLM and Vision combinations with context-injection to give personalized recommendations mapped back to *real-world location businesses*.
-*   **Execution Quality:** Features clean TypeScript typing, reliable state syncing, fully modular code files, robust server-side proxy routes, and a complete end-to-end user-to-merchant workflow (from booking to QR scanning).
-
----
-
 *Created with passion for the **SuperXgen AI Startup Buildathon 2026**.*
