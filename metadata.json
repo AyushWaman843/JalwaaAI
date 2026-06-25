@@ -1,0 +1,6 @@
+{
+  "name": "Jalwaa AI",
+  "description": "A premium salon marketplace for Mumbai with real Google Maps data, AI style recommendations, and queue bookings.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
