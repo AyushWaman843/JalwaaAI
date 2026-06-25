@@ -3,6 +3,7 @@
 > **A Next-Generation AI-Driven Hyperlocal Beauty Platform** built for the **SuperXgen AI Startup Buildathon 2026**.
 > 
 > **Live Demo Link:** [Jalwaa AI Marketplace](https://ais-dev-7uthffmcefszkott6buley-650677139329.asia-southeast1.run.app)
+> IF THE DEMO LINK DOESN'T WORK, TRY USING A DIFFERENT BROWSER
 
 ---
 
